@@ -63,6 +63,15 @@ Style/MultilineMethodCallBraceLayout:
 Style/MultilineMethodDefinitionBraceLayout:
   Enabled: true
 
+Style/TrailingCommaInArguments:
+  EnforcedStyleForMultiline: consistent_comma
+
+Style/AccessorMethodName:
+  Enabled: false
+
+Style/TrailingCommaInArguments:
+  Enabled: false
+
 Style/OptionHash:
   Enabled: true
 
